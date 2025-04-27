@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://study-smartly.github.io/calculus-homework-help/sitemap.xml
